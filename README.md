@@ -1,7 +1,9 @@
 # TwoDegreeCelcius
 NASA-Space-Apps-2021
+
 Author: Yap Ming Yan 
-Kuching, Sarawak
+
+Event Location: Kuching, Sarawak
 
 Demo link: https://yapmingyan.shinyapps.io/TwoDegreeCelcius/
 
